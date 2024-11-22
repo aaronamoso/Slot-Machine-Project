@@ -1,0 +1,28 @@
+### How to Run the Slot Machine Code
+
+1. **Install Node.js**: 
+   Ensure you have [Node.js](https://nodejs.org) installed on your computer. This is required to run JavaScript outside of a browser.
+
+2. **Install the `prompt-sync` package**:
+   Open a terminal and run the following command to install the `prompt-sync` package, which is used for user input:
+   ```bash
+   npm install prompt-sync
+   ```
+
+3. **Save the Code**:
+   Copy the provided code and save it in a file, e.g., `project.js`.
+
+4. **Run the Code**:
+   In the terminal, navigate to the directory where the file is saved and execute the following command:
+   ```bash
+   node project.js
+   ```
+
+5. **Follow On-Screen Prompts**:
+   - The program will ask you to deposit an amount.
+   - Enter the number of lines you want to bet on (1-3).
+   - Specify your bet amount per line.
+   - Watch the slot machine spin and check if you won.
+   - Repeat or exit the game when prompted.
+
+This updated version provides detailed comments to help the programmer understand the code structure and logic.
